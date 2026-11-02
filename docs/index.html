@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>@kaijuconverter/mcp-server — Official MCP Server &amp; 201+ File Format Converter Docs</title>
+  <meta name="description" content="Official Model Context Protocol (MCP) Server, CLI, and OpenAPI 3.1 reference for KaijuConverter. Convert 201+ file formats and access 54 precision Studio tools from Claude, Cursor, Windsurf, ChatGPT, or web.">
+  <link rel="canonical" href="https://pablocirre.github.io/kaijuconverter-mcp/">
+  <style>
+    :root { --bg: #0f172a; --card: #1e293b; --text: #f8fafc; --muted: #94a3b8; --accent: #38bdf8; --brand: #f43f5e; --border: #334155; }
+    * { box-sizing: border-box; }
+    body { margin: 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+    .container { max-width: 1080px; margin: 0 auto; padding: 2.5rem 1.25rem 4rem; }
+    .badge { display: inline-block; padding: 0.25rem 0.75rem; border-radius: 999px; background: rgba(56,189,248,0.15); color: var(--accent); font-family: ui-monospace, monospace; font-size: 0.75rem; font-weight: 700; letter-spacing: 0.05em; text-transform: uppercase; }
+    h1 { font-size: 2.25rem; line-height: 1.2; margin: 0.75rem 0 1rem; }
+    h2 { font-size: 1.4rem; margin: 2.25rem 0 0.75rem; border-bottom: 1px solid var(--border); padding-bottom: 0.5rem; }
+    h3 { font-size: 1.05rem; margin: 1.25rem 0 0.5rem; color: var(--accent); }
+    p, li { color: #cbd5e1; }
+    a { color: var(--accent); text-decoration: none; font-weight: 500; }
+    a:hover { text-decoration: underline; }
+    .btn-row { display: flex; flex-wrap: wrap; gap: 0.75rem; margin: 1.5rem 0 2rem; }
+    .btn { display: inline-block; padding: 0.65rem 1.2rem; border-radius: 0.6rem; font-weight: 700; font-size: 0.9rem; background: var(--brand); color: #fff; }
+    .btn-sec { background: var(--card); border: 1px solid var(--border); color: var(--text); }
+    pre { background: #020617; border: 1px solid var(--border); padding: 1rem; border-radius: 0.75rem; overflow-x: auto; font-size: 0.82rem; color: #e2e8f0; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 0.85rem; margin-top: 1rem; }
+    .card { background: var(--card); border: 1px solid var(--border); border-radius: 0.75rem; padding: 1rem; }
+    .card h4 { margin: 0 0 0.4rem; font-size: 0.95rem; }
+    .card p { margin: 0; font-size: 0.8rem; color: var(--muted); }
+    .lang-bar { display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 0.75rem; }
+    .lang-pill { padding: 0.3rem 0.65rem; border-radius: 0.5rem; background: var(--card); border: 1px solid var(--border); font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <span class="badge">Model Context Protocol (MCP) v2025-03-26 &amp; OpenAPI 3.1</span>
+    <h1>@kaijuconverter/mcp-server — Official AI &amp; CLI File Conversion Engine</h1>
+    <p>Official open-source MCP server and developer documentation for <a href="https://kaijuconverter.com"><strong>KaijuConverter</strong></a> — convert <strong>201+ file formats</strong> across <strong>3,208 conversion pairs</strong> and <strong>54 specialized Studio workspaces</strong> with SHA-256 verification and automatic 60-minute GDPR file shredding.</p>
+
+    <div class="btn-row">
+      <a class="btn" href="https://kaijuconverter.com">Launch Web Workbench (201+ Formats) →</a>
+      <a class="btn btn-sec" href="https://kaijuconverter.com/integrations">MCP &amp; AI Integrations Hub</a>
+      <a class="btn btn-sec" href="https://kaijuconverter.com/api-docs">REST API v1 &amp; OpenAPI 3.1</a>
+      <a class="btn btn-sec" href="https://github.com/PabloCirre/kaijuconverter-mcp">GitHub Repository</a>
+    </div>
+
+    <h2>1. Connect to Claude Desktop, Cursor, Windsurf, ChatGPT &amp; Cline</h2>
+    <h3>Option A: Local Stdio MCP via npx (Zero Dependencies, Node.js &ge; 18)</h3>
+    <pre><code>{
+  "mcpServers": {
+    "kaijuconverter": {
+      "command": "npx",
+      "args": ["-y", "https://kaijuconverter.com/downloads/kaijuconverter-mcp.tgz"]
+    }
+  }
+}</code></pre>
+    <h3>Option B: Zero-Install Remote Streamable HTTP MCP</h3>
+    <pre><code>https://kaijuconverter.com/api/mcp</code></pre>
+
+    <h2>2. Live Interactive Embed Widget Demo (HEIC to JPG)</h2>
+    <div style="max-width:680px;margin:1rem 0;">
+      <iframe src="https://kaijuconverter.com/embed/heic-to-jpg" width="100%" height="430" style="border:1px solid #334155;border-radius:16px;background:#ffffff;" loading="lazy" title="HEIC to JPG Converter — KaijuConverter"></iframe>
+    </div>
+
+    <h2>3. 54 Specialized Studio Workspaces</h2>
+    <p>Explore all precision tools at <a href="https://kaijuconverter.com/tools">kaijuconverter.com/tools</a>:</p>
+    <div class="grid">
+      <div class="card"><h4><a href="https://kaijuconverter.com/tools/compress-image-to-20kb">Compress Image to 20KB</a></h4><p>Exact binary-search byte cap (&le;20KB) for government &amp; visa portals.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/tools/compress-image-to-50kb">Compress Image to 50KB</a></h4><p>Guaranteed &le;50KB JPEG/WebP optimization without dimension loss.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/tools/compress-pdf-to-100kb">Compress PDF to 100KB</a></h4><p>Ghostscript stream &amp; DPI optimization for strict upload limits.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/tools/pdf-to-pdfa">PDF to PDF/A ISO Archival</a></h4><p>ISO 19005 PDF/A-1b &amp; PDF/A-2b compliance with embedded fonts.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/tools/ocr-image-to-text">OCR Image &amp; PDF to Text</a></h4><p>12-language optical character recognition powered by Tesseract.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/tools/resize-image-cm">Resize Image in CM / MM (300 DPI)</a></h4><p>Physical print &amp; passport photo resizer at exact 300 DPI.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/tools/merge-pdf">Merge PDF Files</a></h4><p>Combine multiple PDF documents preserving bookmarks and metadata.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/tools/split-pdf">Split PDF Pages</a></h4><p>Extract individual pages or custom page ranges instantaneously.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/tools/video-to-gif">Video to GIF Maker</a></h4><p>FFmpeg palettegen + Lanczos high-fidelity animated GIF generator.</p></div>
+    </div>
+
+    <h2>4. High-Demand Format Specifications &amp; Converters</h2>
+    <p>Browse the complete 201-format encyclopedia at <a href="https://kaijuconverter.com/formats">kaijuconverter.com/formats</a>:</p>
+    <div class="grid">
+      <div class="card"><h4><a href="https://kaijuconverter.com/formats/csv">CSV Format Specification</a></h4><p>RFC 4180 Comma-Separated Values to XLSX, JSON, ODS &amp; SQL.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/formats/bmp">BMP Bitmap Format</a></h4><p>Uncompressed Windows DIB raster header structure &amp; PNG/JPG conversion.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/formats/tiff">TIFF Archival Raster</a></h4><p>Lossless LZW/ZIP 16-bit photography &amp; prepress format guide.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/formats/heic">HEIC Apple Photos</a></h4><p>HEVC High Efficiency Image Container to JPG, PNG &amp; WebP.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/formats/ods">ODS OpenDocument Spreadsheet</a></h4><p>ISO/IEC 26300 spreadsheet converter to XLSX, CSV &amp; PDF.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/formats/avi">AVI Video Container</a></h4><p>Audio Video Interleave remuxing and H.264 MP4 transcoding.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/formats/vtt">WebVTT Subtitles (.vtt)</a></h4><p>HTML5 Web Video Text Tracks to SRT, ASS &amp; TXT transcripts.</p></div>
+      <div class="card"><h4><a href="https://kaijuconverter.com/formats/flac">FLAC Lossless Audio</a></h4><p>24-bit/192kHz Free Lossless Audio Codec to MP3, WAV &amp; M4A.</p></div>
+    </div>
+
+    <h2>5. Engineering Benchmarks &amp; Technical Guides</h2>
+    <ul>
+      <li><a href="https://kaijuconverter.com/compare">Format Comparison Matrix</a> — <a href="https://kaijuconverter.com/compare/jpg-vs-tiff">JPG vs TIFF Image Quality</a> · <a href="https://kaijuconverter.com/compare/m4a-vs-mp3">M4A (AAC) vs MP3 Audio</a> · <a href="https://kaijuconverter.com/compare/dff-vs-dsf">DFF vs DSF 1-Bit DSD Audio</a> · <a href="https://kaijuconverter.com/compare/csv-vs-ods">CSV vs ODS Spreadsheets</a></li>
+      <li><a href="https://kaijuconverter.com/guides">In-Depth Technical Guides</a> — <a href="https://kaijuconverter.com/guides/csv-complete-guide-open-convert">CSV Complete Guide</a> · <a href="https://kaijuconverter.com/guides/bmp-format-complete-guide">BMP Format Guide</a> · <a href="https://kaijuconverter.com/guides/avi-format-complete-guide">AVI Format Guide</a> · <a href="https://kaijuconverter.com/fr/compare/m4a-vs-mp3">Comparatif M4A vs MP3 (FR)</a> · <a href="https://kaijuconverter.com/es/guides/es-ods-complete-guide-open-convert">Guía Hoja de Cálculo OpenDocument ODS (ES)</a></li>
+      <li><a href="https://kaijuconverter.com/use-cases">Workflow Use Cases</a> &amp; <a href="https://kaijuconverter.com/security">Cryptographic Security &amp; GDPR Architecture</a></li>
+    </ul>
+
+    <h2>6. Available in 12 Languages</h2>
+    <div class="lang-bar">
+      <a class="lang-pill" href="https://kaijuconverter.com/">English (EN)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/es">Español (ES)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/pt">Português (PT)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/de">Deutsch (DE)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/fr">Français (FR)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/ja">日本語 (JA)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/it">Italiano (IT)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/id">Bahasa Indonesia (ID)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/tr">Türkçe (TR)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/ko">한국어 (KO)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/pl">Polski (PL)</a>
+      <a class="lang-pill" href="https://kaijuconverter.com/nl">Nederlands (NL)</a>
+    </div>
+  </main>
+</body>
+</html>
