@@ -1,0 +1,13 @@
+{
+  "$schema": "https://glama.ai/mcp/schemas/server.json",
+  "maintainers": [
+    "PabloCirre"
+  ],
+  "name": "KaijuConverter MCP Server",
+  "description": "Convert 201+ file formats (HEIC, WebP, AVIF, PDF, DOCX, XLSX, CSV, RAW, CAD, EPUB, MP4, MP3) and search 54 precision Studio tools with SHA-256 verification and 60-minute GDPR auto-deletion.",
+  "homepage": "https://kaijuconverter.com/integrations",
+  "remote": {
+    "type": "streamable-http",
+    "url": "https://kaijuconverter.com/api/mcp"
+  }
+}

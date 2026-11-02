@@ -1,0 +1,56 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "com.kaijuconverter/mcp-server",
+  "title": "KaijuConverter — 201+ File Format Converter & 54 Studio Tools",
+  "description": "Official Model Context Protocol (MCP) server for KaijuConverter. Convert 201+ file formats (HEIC, WebP, AVIF, PDF, DOCX, XLSX, CSV, ODS, RAW, CAD, EPUB, MP4, MP3) and query 54 Studio tools with SHA-256 verification and automatic 60-minute GDPR file shredding.",
+  "version": "1.1.0",
+  "websiteUrl": "https://kaijuconverter.com",
+  "repository": {
+    "url": "https://github.com/PabloCirre/kaijuconverter-mcp",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://kaijuconverter.com/api/mcp"
+    }
+  ],
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@kaijuconverter/mcp-server",
+      "tarballUrl": "https://kaijuconverter.com/downloads/kaijuconverter-mcp.tgz",
+      "version": "1.1.0",
+      "runtimeHint": "npx",
+      "transport": {
+        "type": "stdio"
+      },
+      "environmentVariables": [
+        {
+          "name": "KAIJU_API_KEY",
+          "description": "Optional KaijuConverter API key (kc_...) for up to 2 GB files and higher rate limits. Works free without an API key up to 25 MB.",
+          "isRequired": false,
+          "isSecret": true
+        },
+        {
+          "name": "KAIJU_API_BASE",
+          "description": "API base URL (defaults to https://kaijuconverter.com)",
+          "isRequired": false,
+          "isSecret": false,
+          "default": "https://kaijuconverter.com"
+        }
+      ]
+    }
+  ],
+  "capabilities": {
+    "tools": [
+      "convert_local_file",
+      "convert_file_from_url",
+      "convert_base64_file",
+      "list_supported_formats",
+      "get_conversion_targets",
+      "find_studio_tool"
+    ],
+    "languages": ["en", "es", "pt", "de", "fr", "ja", "it", "id", "tr", "ko", "pl", "nl"]
+  }
+}

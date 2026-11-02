@@ -1,0 +1,38 @@
+{
+  "name": "@kaijuconverter/mcp-server",
+  "version": "1.1.0",
+  "description": "Official Model Context Protocol (MCP) Server & CLI for KaijuConverter — convert 201+ file formats and search 54 precision Studio tools from Claude Desktop, Cursor, Windsurf, Claude Code, Antigravity, or terminal.",
+  "license": "MIT",
+  "homepage": "https://kaijuconverter.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PabloCirre/kaijuconverter-mcp.git"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "file-converter",
+    "pdf",
+    "heic",
+    "webp",
+    "avif",
+    "docx",
+    "claude",
+    "cursor",
+    "kaijuconverter"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "bin": {
+    "kaijuconverter-mcp": "./bin/kaijuconverter-mcp.js"
+  },
+  "mcpName": "com.kaijuconverter/mcp-server",
+  "files": [
+    "bin/",
+    "README.md",
+    "server.json",
+    "smithery.yaml",
+    "glama.json"
+  ]
+}
