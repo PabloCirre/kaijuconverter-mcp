@@ -1,0 +1,202 @@
+extension,name,family,mime_type,developer,lossless,open_standard,seo_score,format_spec_url,converter_url
+.jpg,"JPEG Image",image,image/jpeg,"Standard / Open",No,No,10,https://kaijuconverter.com/formats/jpg,https://kaijuconverter.com/convert/jpg-to-png
+.mp3,"MP3 Audio",audio,audio/mpeg,"Standard / Open",No,No,10,https://kaijuconverter.com/formats/mp3,https://kaijuconverter.com/convert/mp3-to-mp3
+.mp4,"MP4 Video",video,video/mp4,"Standard / Open",No,No,10,https://kaijuconverter.com/formats/mp4,https://kaijuconverter.com/convert/mp4-to-mp4
+.pdf,"PDF Document",document,application/pdf,"Standard / Open",No,No,10,https://kaijuconverter.com/formats/pdf,https://kaijuconverter.com/convert/pdf-to-pdf
+.png,"PNG Image",image,image/png,"Standard / Open",No,No,10,https://kaijuconverter.com/formats/png,https://kaijuconverter.com/convert/png-to-jpg
+.dcm,"DICOM Medical Image",image,application/dicom,"Standard / Open",No,No,9,https://kaijuconverter.com/formats/dcm,https://kaijuconverter.com/convert/dcm-to-jpg
+.docx,"Word Document",document,application/vnd.openxmlformats-officedocument.wordprocessingml.document,"Standard / Open",No,No,9,https://kaijuconverter.com/formats/docx,https://kaijuconverter.com/convert/docx-to-pdf
+.hwp,"Hangul Word Processor Document",document,"application/x-hwp; application/haansofthwp","Standard / Open",No,No,9,https://kaijuconverter.com/formats/hwp,https://kaijuconverter.com/convert/hwp-to-pdf
+.ipynb,"Jupyter Notebook",document,"application/x-ipynb+json; application/json","Standard / Open",No,No,9,https://kaijuconverter.com/formats/ipynb,https://kaijuconverter.com/convert/ipynb-to-pdf
+.webp,"WebP Image",image,image/webp,"Standard / Open",No,No,9,https://kaijuconverter.com/formats/webp,https://kaijuconverter.com/convert/webp-to-jpg
+.ai,"Adobe Illustrator",image,"application/illustrator; application/postscript","Standard / Open",No,No,8,https://kaijuconverter.com/formats/ai,https://kaijuconverter.com/convert/ai-to-jpg
+.gif,"GIF Image",image,image/gif,"Standard / Open",No,No,8,https://kaijuconverter.com/formats/gif,https://kaijuconverter.com/convert/gif-to-jpg
+.heic,"HEIC Image",image,"image/heic; image/heif","Standard / Open",No,No,8,https://kaijuconverter.com/formats/heic,https://kaijuconverter.com/convert/heic-to-jpg
+.mov,"QuickTime Movie",video,video/quicktime,"Standard / Open",No,No,8,https://kaijuconverter.com/formats/mov,https://kaijuconverter.com/convert/mov-to-mp4
+.xlsx,"Excel Spreadsheet",spreadsheet,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,"Standard / Open",No,No,8,https://kaijuconverter.com/formats/xlsx,https://kaijuconverter.com/convert/xlsx-to-pdf
+.avif,"AVIF Image",image,image/avif,"Standard / Open",No,No,7,https://kaijuconverter.com/formats/avif,https://kaijuconverter.com/convert/avif-to-jpg
+.csv,"CSV (Comma-Separated Values)",spreadsheet,text/csv,"Standard / Open",No,No,7,https://kaijuconverter.com/formats/csv,https://kaijuconverter.com/convert/csv-to-pdf
+.epub,"EPUB eBook",ebook,application/epub+zip,"Standard / Open",No,No,7,https://kaijuconverter.com/formats/epub,https://kaijuconverter.com/convert/epub-to-pdf
+.flac,"FLAC Audio",audio,audio/flac,"Standard / Open",No,No,7,https://kaijuconverter.com/formats/flac,https://kaijuconverter.com/convert/flac-to-mp3
+.mkv,"Matroska Video",video,video/x-matroska,"Standard / Open",No,No,7,https://kaijuconverter.com/formats/mkv,https://kaijuconverter.com/convert/mkv-to-mp4
+.pptx,"PowerPoint Presentation",presentation,application/vnd.openxmlformats-officedocument.presentationml.presentation,"Standard / Open",No,No,7,https://kaijuconverter.com/formats/pptx,https://kaijuconverter.com/convert/pptx-to-pdf
+.svg,"SVG Vector Image",image,image/svg+xml,"Standard / Open",No,No,7,https://kaijuconverter.com/formats/svg,https://kaijuconverter.com/convert/svg-to-jpg
+.wav,"WAV Audio",audio,"audio/wav; audio/x-wav","Standard / Open",No,No,7,https://kaijuconverter.com/formats/wav,https://kaijuconverter.com/convert/wav-to-mp3
+.webm,"WebM Video",video,video/webm,"Standard / Open",No,No,7,https://kaijuconverter.com/formats/webm,https://kaijuconverter.com/convert/webm-to-mp4
+.zip,"ZIP Archive",archive,application/zip,"Standard / Open",No,No,7,https://kaijuconverter.com/formats/zip,https://kaijuconverter.com/convert/zip-to-pdf
+.aac,"AAC Audio",audio,audio/aac,"Standard / Open",No,No,6,https://kaijuconverter.com/formats/aac,https://kaijuconverter.com/convert/aac-to-mp3
+.avi,"AVI Video",video,video/x-msvideo,"Standard / Open",No,No,6,https://kaijuconverter.com/formats/avi,https://kaijuconverter.com/convert/avi-to-mp4
+.doc,"Word Document (Legacy)",document,application/msword,"Standard / Open",No,No,6,https://kaijuconverter.com/formats/doc,https://kaijuconverter.com/convert/doc-to-pdf
+.ico,"ICO Icon",image,"image/x-icon; image/vnd.microsoft.icon","Standard / Open",No,No,6,https://kaijuconverter.com/formats/ico,https://kaijuconverter.com/convert/ico-to-jpg
+.jpeg,"JPEG Image",image,image/jpeg,"Standard / Open",No,No,6,https://kaijuconverter.com/formats/jpeg,https://kaijuconverter.com/convert/jpeg-to-jpg
+.m4a,"M4A Audio",audio,"audio/mp4; audio/x-m4a","Standard / Open",No,No,6,https://kaijuconverter.com/formats/m4a,https://kaijuconverter.com/convert/m4a-to-mp3
+.psd,"Adobe Photoshop Document",image,"image/vnd.adobe.photoshop; application/x-photoshop","Standard / Open",No,No,6,https://kaijuconverter.com/formats/psd,https://kaijuconverter.com/convert/psd-to-jpg
+.rar,"RAR Archive",archive,"application/vnd.rar; application/x-rar-compressed","Standard / Open",No,No,6,https://kaijuconverter.com/formats/rar,https://kaijuconverter.com/convert/rar-to-pdf
+.xls,"Excel Spreadsheet (Legacy)",spreadsheet,application/vnd.ms-excel,"Standard / Open",No,No,6,https://kaijuconverter.com/formats/xls,https://kaijuconverter.com/convert/xls-to-pdf
+.7z,"7-Zip Archive",archive,application/x-7z-compressed,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/7z,https://kaijuconverter.com/convert/7z-to-pdf
+.eps,"Encapsulated PostScript",image,"application/postscript; image/x-eps","Standard / Open",No,No,5,https://kaijuconverter.com/formats/eps,https://kaijuconverter.com/convert/eps-to-jpg
+.flv,"Flash Video",video,video/x-flv,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/flv,https://kaijuconverter.com/convert/flv-to-mp4
+.html,"HTML Document",document,text/html,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/html,https://kaijuconverter.com/convert/html-to-pdf
+.json,"JSON Data",document,application/json,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/json,https://kaijuconverter.com/convert/json-to-pdf
+.mobi,"Mobipocket eBook",ebook,application/x-mobipocket-ebook,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/mobi,https://kaijuconverter.com/convert/mobi-to-pdf
+.ogg,"OGG Vorbis Audio",audio,audio/ogg,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/ogg,https://kaijuconverter.com/convert/ogg-to-mp3
+.ppt,"PowerPoint Presentation (Legacy)",presentation,application/vnd.ms-powerpoint,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/ppt,https://kaijuconverter.com/convert/ppt-to-pdf
+.srt,"SubRip Subtitle",document,application/x-subrip,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/srt,https://kaijuconverter.com/convert/srt-to-pdf
+.tiff,"TIFF Image",image,image/tiff,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/tiff,https://kaijuconverter.com/convert/tiff-to-jpg
+.txt,"Plain Text",document,text/plain,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/txt,https://kaijuconverter.com/convert/txt-to-pdf
+.vtt,"WebVTT Subtitle",document,text/vtt,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/vtt,https://kaijuconverter.com/convert/vtt-to-pdf
+.wmv,"Windows Media Video",video,video/x-ms-wmv,"Standard / Open",No,No,5,https://kaijuconverter.com/formats/wmv,https://kaijuconverter.com/convert/wmv-to-mp4
+.3gp,"3GPP Video",video,video/3gpp,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/3gp,https://kaijuconverter.com/convert/3gp-to-mp4
+.aiff,"AIFF Audio",audio,"audio/aiff; audio/x-aiff","Standard / Open",No,No,4,https://kaijuconverter.com/formats/aiff,https://kaijuconverter.com/convert/aiff-to-mp3
+.alac,"Apple Lossless Audio",audio,"audio/alac; audio/x-alac","Standard / Open",No,No,4,https://kaijuconverter.com/formats/alac,https://kaijuconverter.com/convert/alac-to-mp3
+.amr,"AMR Audio",audio,audio/amr,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/amr,https://kaijuconverter.com/convert/amr-to-mp3
+.azw3,"Kindle Format 8",ebook,application/vnd.amazon.ebook,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/azw3,https://kaijuconverter.com/convert/azw3-to-pdf
+.bmp,"BMP Image",image,"image/bmp; image/x-ms-bmp","Standard / Open",No,No,4,https://kaijuconverter.com/formats/bmp,https://kaijuconverter.com/convert/bmp-to-jpg
+.cr2,"Canon RAW CR2",image,image/x-canon-cr2,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/cr2,https://kaijuconverter.com/convert/cr2-to-jpg
+.cr3,"Canon RAW CR3",image,image/x-canon-cr3,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/cr3,https://kaijuconverter.com/convert/cr3-to-jpg
+.dng,"Digital Negative (RAW)",image,image/x-adobe-dng,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/dng,https://kaijuconverter.com/convert/dng-to-jpg
+.gz,"Gzip Compressed",archive,application/gzip,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/gz,https://kaijuconverter.com/convert/gz-to-pdf
+.heif,"HEIF Image",image,image/heif,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/heif,https://kaijuconverter.com/convert/heif-to-jpg
+.indd,"Adobe InDesign",image,application/x-indesign,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/indd,https://kaijuconverter.com/convert/indd-to-jpg
+.jfif,"JFIF Image",image,image/jpeg,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/jfif,https://kaijuconverter.com/convert/jfif-to-jpg
+.jxl,"JPEG XL Image",image,image/jxl,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/jxl,https://kaijuconverter.com/convert/jxl-to-jpg
+.m4v,"M4V Video (Apple)",video,video/x-m4v,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/m4v,https://kaijuconverter.com/convert/m4v-to-mp4
+.md,Markdown,document,text/markdown,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/md,https://kaijuconverter.com/convert/md-to-pdf
+.mpeg,"MPEG Video",video,video/mpeg,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/mpeg,https://kaijuconverter.com/convert/mpeg-to-mp4
+.mpg,"MPEG Video (short)",video,video/mpeg,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/mpg,https://kaijuconverter.com/convert/mpg-to-mp4
+.nef,"Nikon RAW NEF",image,image/x-nikon-nef,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/nef,https://kaijuconverter.com/convert/nef-to-jpg
+.odt,"OpenDocument Text",document,application/vnd.oasis.opendocument.text,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/odt,https://kaijuconverter.com/convert/odt-to-pdf
+.opus,"Opus Audio",audio,audio/opus,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/opus,https://kaijuconverter.com/convert/opus-to-mp3
+.raw,"Generic RAW Image",image,image/x-raw,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/raw,https://kaijuconverter.com/convert/raw-to-jpg
+.rtf,"Rich Text Format",document,"application/rtf; text/rtf","Standard / Open",No,No,4,https://kaijuconverter.com/formats/rtf,https://kaijuconverter.com/convert/rtf-to-pdf
+.tar,"TAR Archive",archive,application/x-tar,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/tar,https://kaijuconverter.com/convert/tar-to-pdf
+.wma,"Windows Media Audio",audio,audio/x-ms-wma,"Standard / Open",No,No,4,https://kaijuconverter.com/formats/wma,https://kaijuconverter.com/convert/wma-to-mp3
+.yaml,"YAML Data",document,"application/x-yaml; text/yaml","Standard / Open",No,No,4,https://kaijuconverter.com/formats/yaml,https://kaijuconverter.com/convert/yaml-to-pdf
+.ac3,"Dolby Digital AC3",audio,audio/ac3,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/ac3,https://kaijuconverter.com/convert/ac3-to-mp3
+.adoc,AsciiDoc,document,text/asciidoc,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/adoc,https://kaijuconverter.com/convert/adoc-to-pdf
+.aif,"AIFF Audio (short)",audio,audio/aiff,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/aif,https://kaijuconverter.com/convert/aif-to-mp3
+.ape,"Monkey's Audio",audio,"audio/ape; audio/x-ape","Standard / Open",No,No,3,https://kaijuconverter.com/formats/ape,https://kaijuconverter.com/convert/ape-to-mp3
+.apk,"Android Package",archive,application/vnd.android.package-archive,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/apk,https://kaijuconverter.com/convert/apk-to-pdf
+.arw,"Sony RAW ARW",image,image/x-sony-arw,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/arw,https://kaijuconverter.com/convert/arw-to-jpg
+.ass,"Advanced SubStation",document,text/x-ssa,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/ass,https://kaijuconverter.com/convert/ass-to-pdf
+.bz2,"Bzip2 Compressed",archive,application/x-bzip2,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/bz2,https://kaijuconverter.com/convert/bz2-to-pdf
+.cbr,"Comic Book Archive (RAR)",ebook,application/vnd.comicbook-rar,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/cbr,https://kaijuconverter.com/convert/cbr-to-pdf
+.cbz,"Comic Book Archive (ZIP)",ebook,application/vnd.comicbook+zip,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/cbz,https://kaijuconverter.com/convert/cbz-to-pdf
+.cdr,CorelDRAW,image,"application/cdr; application/x-cdr","Standard / Open",No,No,3,https://kaijuconverter.com/formats/cdr,https://kaijuconverter.com/convert/cdr-to-jpg
+.divx,"DivX Video",video,video/x-divx,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/divx,https://kaijuconverter.com/convert/divx-to-mp4
+.djvu,"DjVu Document",document,image/vnd.djvu,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/djvu,https://kaijuconverter.com/convert/djvu-to-pdf
+.dmg,"Apple Disk Image",archive,application/x-apple-diskimage,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/dmg,https://kaijuconverter.com/convert/dmg-to-pdf
+.dv,"Digital Video",video,video/x-dv,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/dv,https://kaijuconverter.com/convert/dv-to-mp4
+.exr,"OpenEXR Image",image,image/x-exr,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/exr,https://kaijuconverter.com/convert/exr-to-jpg
+.fb2,FictionBook,ebook,application/x-fictionbook+xml,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/fb2,https://kaijuconverter.com/convert/fb2-to-pdf
+.h264,"H.264 Raw Stream",video,video/h264,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/h264,https://kaijuconverter.com/convert/h264-to-mp4
+.h265,"H.265/HEVC Raw Stream",video,video/h265,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/h265,https://kaijuconverter.com/convert/h265-to-mp4
+.htm,"HTML Document (short)",document,text/html,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/htm,https://kaijuconverter.com/convert/htm-to-pdf
+.icns,"Apple Icon Image",image,image/x-icns,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/icns,https://kaijuconverter.com/convert/icns-to-jpg
+.iso,"ISO Disk Image",archive,application/x-iso9660-image,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/iso,https://kaijuconverter.com/convert/iso-to-pdf
+.jp2,"JPEG 2000 Image",image,image/jp2,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/jp2,https://kaijuconverter.com/convert/jp2-to-jpg
+.key,"Apple Keynote",presentation,application/vnd.apple.keynote,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/key,https://kaijuconverter.com/convert/key-to-pdf
+.mid,"MIDI Audio",audio,audio/midi,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/mid,https://kaijuconverter.com/convert/mid-to-mp3
+.mp2,"MPEG Layer 2 Audio",audio,audio/mpeg,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/mp2,https://kaijuconverter.com/convert/mp2-to-mp3
+.numbers,"Apple Numbers",spreadsheet,application/vnd.apple.numbers,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/numbers,https://kaijuconverter.com/convert/numbers-to-pdf
+.odp,"OpenDocument Presentation",presentation,application/vnd.oasis.opendocument.presentation,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/odp,https://kaijuconverter.com/convert/odp-to-pdf
+.ods,"OpenDocument Spreadsheet",spreadsheet,application/vnd.oasis.opendocument.spreadsheet,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/ods,https://kaijuconverter.com/convert/ods-to-pdf
+.ogv,"OGV Video",video,video/ogg,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/ogv,https://kaijuconverter.com/convert/ogv-to-mp4
+.pages,"Apple Pages",document,application/vnd.apple.pages,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/pages,https://kaijuconverter.com/convert/pages-to-pdf
+.ps,PostScript,document,application/postscript,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/ps,https://kaijuconverter.com/convert/ps-to-pdf
+.raf,"Fujifilm RAW",image,image/x-fuji-raf,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/raf,https://kaijuconverter.com/convert/raf-to-jpg
+.svgz,"Compressed SVG",image,image/svg+xml,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/svgz,https://kaijuconverter.com/convert/svgz-to-jpg
+.tex,"LaTeX Document",document,application/x-tex,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/tex,https://kaijuconverter.com/convert/tex-to-pdf
+.tga,"TGA Image",image,image/x-tga,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/tga,https://kaijuconverter.com/convert/tga-to-jpg
+.tgz,"Tarball (gzipped)",archive,application/gzip,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/tgz,https://kaijuconverter.com/convert/tgz-to-pdf
+.toml,"TOML Config",document,application/toml,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/toml,https://kaijuconverter.com/convert/toml-to-pdf
+.ts,"MPEG Transport Stream",video,video/mp2t,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/ts,https://kaijuconverter.com/convert/ts-to-mp4
+.tsv,"TSV (Tab-Separated Values)",spreadsheet,text/tab-separated-values,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/tsv,https://kaijuconverter.com/convert/tsv-to-pdf
+.vob,"DVD Video Object",video,"video/dvd; video/mpeg","Standard / Open",No,No,3,https://kaijuconverter.com/formats/vob,https://kaijuconverter.com/convert/vob-to-mp4
+.xcf,"GIMP Image",image,image/x-xcf,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/xcf,https://kaijuconverter.com/convert/xcf-to-jpg
+.xhtml,"XHTML Document",document,application/xhtml+xml,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/xhtml,https://kaijuconverter.com/convert/xhtml-to-pdf
+.xml,"XML Document",document,"application/xml; text/xml","Standard / Open",No,No,3,https://kaijuconverter.com/formats/xml,https://kaijuconverter.com/convert/xml-to-pdf
+.xz,"XZ Compressed",archive,application/x-xz,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/xz,https://kaijuconverter.com/convert/xz-to-pdf
+.zst,"Zstandard Compressed",archive,application/zstd,"Standard / Open",No,No,3,https://kaijuconverter.com/formats/zst,https://kaijuconverter.com/convert/zst-to-pdf
+.asf,"Advanced Systems Format",video,video/x-ms-asf,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/asf,https://kaijuconverter.com/convert/asf-to-mp4
+.au,"Sun AU Audio",audio,audio/basic,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/au,https://kaijuconverter.com/convert/au-to-mp3
+.cab,"Windows Cabinet",archive,application/vnd.ms-cab-compressed,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/cab,https://kaijuconverter.com/convert/cab-to-pdf
+.caf,"Apple Core Audio",audio,audio/x-caf,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/caf,https://kaijuconverter.com/convert/caf-to-mp3
+.dds,"DirectDraw Surface",image,image/vnd.ms-dds,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/dds,https://kaijuconverter.com/convert/dds-to-jpg
+.deb,"Debian Package",archive,application/vnd.debian.binary-package,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/deb,https://kaijuconverter.com/convert/deb-to-pdf
+.dpx,"Digital Moving-Picture",image,image/x-dpx,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/dpx,https://kaijuconverter.com/convert/dpx-to-jpg
+.dsf,"DSD Stream File",audio,audio/x-dsf,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/dsf,https://kaijuconverter.com/convert/dsf-to-mp3
+.dts,"DTS Audio",audio,audio/vnd.dts,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/dts,https://kaijuconverter.com/convert/dts-to-mp3
+.emf,"Enhanced Metafile",image,"image/emf; application/emf","Standard / Open",No,No,2,https://kaijuconverter.com/formats/emf,https://kaijuconverter.com/convert/emf-to-jpg
+.f4v,"Flash MP4 Video",video,video/mp4,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/f4v,https://kaijuconverter.com/convert/f4v-to-mp4
+.fits,"FITS Astronomical Image",image,image/fits,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/fits,https://kaijuconverter.com/convert/fits-to-jpg
+.gsm,"GSM Audio",audio,audio/gsm,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/gsm,https://kaijuconverter.com/convert/gsm-to-mp3
+.hdr,"Radiance HDR Image",image,image/vnd.radiance,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/hdr,https://kaijuconverter.com/convert/hdr-to-jpg
+.jar,"Java Archive",archive,application/java-archive,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/jar,https://kaijuconverter.com/convert/jar-to-pdf
+.jira,"Jira Markup",document,text/x-jira,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/jira,https://kaijuconverter.com/convert/jira-to-pdf
+.lz4,"LZ4 Compressed",archive,application/x-lz4,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/lz4,https://kaijuconverter.com/convert/lz4-to-pdf
+.lzma,"LZMA Compressed",archive,application/x-lzma,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/lzma,https://kaijuconverter.com/convert/lzma-to-pdf
+.m2ts,"Blu-ray MPEG-2 TS",video,video/mp2t,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/m2ts,https://kaijuconverter.com/convert/m2ts-to-mp4
+.m2v,"MPEG-2 Video",video,video/mpeg,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/m2v,https://kaijuconverter.com/convert/m2v-to-mp4
+.man,"Unix Man Page",document,text/troff,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/man,https://kaijuconverter.com/convert/man-to-pdf
+.mediawiki,"MediaWiki Markup",document,text/x-mediawiki,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/mediawiki,https://kaijuconverter.com/convert/mediawiki-to-pdf
+.mjpeg,"Motion JPEG",video,video/x-motion-jpeg,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/mjpeg,https://kaijuconverter.com/convert/mjpeg-to-mp4
+.mka,"Matroska Audio",audio,audio/x-matroska,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/mka,https://kaijuconverter.com/convert/mka-to-mp3
+.mts,"AVCHD Video",video,video/mp2t,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/mts,https://kaijuconverter.com/convert/mts-to-mp4
+.mxf,"Material eXchange Format",video,application/mxf,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/mxf,https://kaijuconverter.com/convert/mxf-to-mp4
+.orf,"Olympus RAW ORF",image,image/x-olympus-orf,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/orf,https://kaijuconverter.com/convert/orf-to-jpg
+.org,Org-mode,document,text/x-org,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/org,https://kaijuconverter.com/convert/org-to-pdf
+.pbm,"PBM Bitmap Image",image,image/x-portable-bitmap,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/pbm,https://kaijuconverter.com/convert/pbm-to-jpg
+.pcx,"PCX Image",image,image/x-pcx,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/pcx,https://kaijuconverter.com/convert/pcx-to-jpg
+.pdb,"PalmDOC eBook",ebook,application/x-palm-database,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/pdb,https://kaijuconverter.com/convert/pdb-to-pdf
+.pef,"Pentax RAW",image,image/x-pentax-pef,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/pef,https://kaijuconverter.com/convert/pef-to-jpg
+.pgm,"PGM Grayscale Image",image,image/x-portable-graymap,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/pgm,https://kaijuconverter.com/convert/pgm-to-jpg
+.pnm,"Portable Anymap",image,image/x-portable-anymap,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/pnm,https://kaijuconverter.com/convert/pnm-to-jpg
+.ppm,"PPM Color Image",image,image/x-portable-pixmap,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/ppm,https://kaijuconverter.com/convert/ppm-to-jpg
+.rm,RealMedia,video,application/vnd.rn-realmedia,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/rm,https://kaijuconverter.com/convert/rm-to-mp4
+.rpm,"RPM Package",archive,application/x-rpm,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/rpm,https://kaijuconverter.com/convert/rpm-to-pdf
+.rst,reStructuredText,document,text/x-rst,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/rst,https://kaijuconverter.com/convert/rst-to-pdf
+.rw2,"Panasonic RAW RW2",image,image/x-panasonic-rw2,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/rw2,https://kaijuconverter.com/convert/rw2-to-jpg
+.spx,"Speex Audio",audio,audio/x-speex,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/spx,https://kaijuconverter.com/convert/spx-to-mp3
+.sr2,"Sony RAW SR2",image,image/x-sony-sr2,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/sr2,https://kaijuconverter.com/convert/sr2-to-jpg
+.ssa,"SubStation Alpha",document,text/x-ssa,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/ssa,https://kaijuconverter.com/convert/ssa-to-pdf
+.sub,"MicroDVD Subtitle",document,text/x-microdvd,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/sub,https://kaijuconverter.com/convert/sub-to-pdf
+.swf,"Flash SWF",video,application/x-shockwave-flash,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/swf,https://kaijuconverter.com/convert/swf-to-mp4
+.tta,"True Audio Lossless",audio,audio/x-tta,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/tta,https://kaijuconverter.com/convert/tta-to-mp3
+.typst,"Typst Document",document,text/typst,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/typst,https://kaijuconverter.com/convert/typst-to-pdf
+.war,"Web Application Archive",archive,application/java-archive,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/war,https://kaijuconverter.com/convert/war-to-pdf
+.wmf,"Windows Metafile",image,"image/wmf; application/wmf","Standard / Open",No,No,2,https://kaijuconverter.com/formats/wmf,https://kaijuconverter.com/convert/wmf-to-jpg
+.wv,"WavPack Audio",audio,audio/x-wavpack,"Standard / Open",No,No,2,https://kaijuconverter.com/formats/wv,https://kaijuconverter.com/convert/wv-to-mp3
+.8svx,"Amiga 8SVX Audio",audio,audio/8svx,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/8svx,https://kaijuconverter.com/convert/8svx-to-mp3
+.ar,"Unix AR Archive",archive,application/x-archive,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/ar,https://kaijuconverter.com/convert/ar-to-pdf
+.cin,"Kodak Cineon",image,image/x-cineon,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/cin,https://kaijuconverter.com/convert/cin-to-jpg
+.cpio,"CPIO Archive",archive,application/x-cpio,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/cpio,https://kaijuconverter.com/convert/cpio-to-pdf
+.creole,"Creole Markup",document,text/x-creole,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/creole,https://kaijuconverter.com/convert/creole-to-pdf
+.dff,"DSD Interchange File",audio,audio/x-dff,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/dff,https://kaijuconverter.com/convert/dff-to-mp3
+.dokuwiki,"DokuWiki Markup",document,text/x-dokuwiki,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/dokuwiki,https://kaijuconverter.com/convert/dokuwiki-to-pdf
+.htmlz,"HTMLZ eBook",ebook,application/htmlz,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/htmlz,https://kaijuconverter.com/convert/htmlz-to-pdf
+.lit,"Microsoft LIT",ebook,application/x-ms-reader,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/lit,https://kaijuconverter.com/convert/lit-to-pdf
+.lrf,"Sony LRF eBook",ebook,application/x-sony-bbeb,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/lrf,https://kaijuconverter.com/convert/lrf-to-pdf
+.lz,"Lzip Compressed",archive,application/lzip,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/lz,https://kaijuconverter.com/convert/lz-to-pdf
+.miff,"ImageMagick MIFF",image,image/x-miff,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/miff,https://kaijuconverter.com/convert/miff-to-jpg
+.muse,"Emacs Muse",document,text/x-muse,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/muse,https://kaijuconverter.com/convert/muse-to-pdf
+.nut,"NUT Container",video,video/x-nut,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/nut,https://kaijuconverter.com/convert/nut-to-mp4
+.opml,"OPML Outline",document,text/x-opml,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/opml,https://kaijuconverter.com/convert/opml-to-pdf
+.ra,RealAudio,audio,audio/vnd.rn-realaudio,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/ra,https://kaijuconverter.com/convert/ra-to-mp3
+.rmvb,"RealMedia VBR",video,application/vnd.rn-realmedia-vbr,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/rmvb,https://kaijuconverter.com/convert/rmvb-to-mp4
+.sgi,"SGI Image",image,image/sgi,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/sgi,https://kaijuconverter.com/convert/sgi-to-jpg
+.shn,"Shorten Audio",audio,audio/x-shorten,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/shn,https://kaijuconverter.com/convert/shn-to-mp3
+.snap,"Snap Package",archive,application/vnd.snap,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/snap,https://kaijuconverter.com/convert/snap-to-pdf
+.snb,"S-Note eBook",ebook,application/x-snb,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/snb,https://kaijuconverter.com/convert/snb-to-pdf
+.snd,"NeXT Sound",audio,audio/basic,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/snd,https://kaijuconverter.com/convert/snd-to-mp3
+.sox,"SoX Audio",audio,audio/x-sox,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/sox,https://kaijuconverter.com/convert/sox-to-mp3
+.t2t,txt2tags,document,text/x-txt2tags,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/t2t,https://kaijuconverter.com/convert/t2t-to-pdf
+.tak,"TAK Lossless Audio",audio,audio/x-tak,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/tak,https://kaijuconverter.com/convert/tak-to-mp3
+.textile,"Textile Markup",document,text/x-textile,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/textile,https://kaijuconverter.com/convert/textile-to-pdf
+.txtz,"TXTZ eBook",ebook,application/txtz,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/txtz,https://kaijuconverter.com/convert/txtz-to-pdf
+.voc,"Creative Voice",audio,audio/x-voc,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/voc,https://kaijuconverter.com/convert/voc-to-mp3
+.w64,"Sony Wave64",audio,audio/x-w64,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/w64,https://kaijuconverter.com/convert/w64-to-mp3
+.wbmp,"Wireless Bitmap",image,image/vnd.wap.wbmp,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/wbmp,https://kaijuconverter.com/convert/wbmp-to-jpg
+.xbm,"X BitMap",image,image/x-xbitmap,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/xbm,https://kaijuconverter.com/convert/xbm-to-jpg
+.xpm,"X PixMap",image,image/x-xpixmap,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/xpm,https://kaijuconverter.com/convert/xpm-to-jpg
+.y4m,YUV4MPEG2,video,video/x-raw-yuv,"Standard / Open",No,No,1,https://kaijuconverter.com/formats/y4m,https://kaijuconverter.com/convert/y4m-to-mp4
