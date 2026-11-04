@@ -33,6 +33,7 @@
     "README.md",
     "server.json",
     "smithery.yaml",
-    "glama.json"
+    "glama.json",
+    "Dockerfile"
   ]
 }
