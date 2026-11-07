@@ -1,0 +1,30 @@
+{
+  "name": "pablocirre/kaijuconverter-mcp",
+  "description": "Official Model Context Protocol (MCP) Server for KaijuConverter \u2014 convert 201+ file formats and access 54 precision Studio tools",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://kaijuconverter.com/integrations",
+  "authors": [
+    {
+      "name": "Pablo Cirre",
+      "homepage": "https://kaijuconverter.com"
+    }
+  ],
+  "support": {
+    "homepage": "https://kaijuconverter.com",
+    "docs": "https://kaijuconverter.com/api-docs",
+    "source": "https://github.com/PabloCirre/kaijuconverter-mcp",
+    "issues": "https://github.com/PabloCirre/kaijuconverter-mcp/issues"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "file-converter",
+    "pdf",
+    "heic",
+    "webp",
+    "avif",
+    "docx",
+    "kaijuconverter"
+  ]
+}

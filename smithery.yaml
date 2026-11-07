@@ -10,14 +10,15 @@ startCommand:
         description: Optional KaijuConverter API key (kc_...) for up to 2 GB files. Leave empty for free tier (up to 25 MB per file).
       apiBase:
         type: string
-        default: "https://kaijuconverter.com"
-        description: Base URL for the KaijuConverter conversion API.
+        default: "https://kaijuconverter.com/api/mcp"
+        description: Base URL for the KaijuConverter conversion & MCP API endpoint.
   commandFunction: |-
     (config) => ({
       command: 'node',
-      args: ['bin/kaijuconverter-mcp.js'],
+      args: ['index.js'],
       env: {
         ...(config && config.apiKey ? { KAIJU_API_KEY: config.apiKey } : {}),
-        ...(config && config.apiBase ? { KAIJU_API_BASE: config.apiBase } : {})
+        API_ENDPOINT: 'https://kaijuconverter.com/api/mcp',
+        ...(config && config.apiBase ? { KAIJU_API_BASE: config.apiBase } : { KAIJU_API_BASE: 'https://kaijuconverter.com/api/mcp' })
       }
     })

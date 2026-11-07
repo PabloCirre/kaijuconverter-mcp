@@ -1,7 +1,7 @@
 {
   "name": "@kaijuconverter/mcp-server",
   "version": "1.1.0",
-  "description": "Official Model Context Protocol (MCP) Server & CLI for KaijuConverter — convert 201+ file formats and search 54 precision Studio tools from Claude Desktop, Cursor, Windsurf, Claude Code, Antigravity, or terminal.",
+  "description": "Official Model Context Protocol (MCP) Server & CLI for KaijuConverter \u2014 convert 201+ file formats and search 54 precision Studio tools from Claude Desktop, Cursor, Windsurf, Claude Code, Antigravity, or terminal.",
   "license": "MIT",
   "homepage": "https://kaijuconverter.com",
   "repository": {
@@ -29,11 +29,14 @@
   },
   "mcpName": "com.kaijuconverter/mcp-server",
   "files": [
-    "bin/",
+    "Dockerfile",
     "README.md",
-    "server.json",
-    "smithery.yaml",
+    "bin/",
+    "composer.json",
     "glama.json",
-    "Dockerfile"
-  ]
+    "index.js",
+    "server.json",
+    "smithery.yaml"
+  ],
+  "main": "index.js"
 }
