@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, academic work, or software projects, please cite it as below."
+title: "KaijuConverter MCP Server: Model Context Protocol Document & File Conversion Tools"
+abstract: "Official Model Context Protocol (MCP) server for KaijuConverter. Allows AI agents in Claude Desktop, Cursor, and Windsurf to convert, compress, and inspect files, documents, and media seamlessly."
+type: software
+authors:
+  - family-names: "Cirre"
+    given-names: "Pablo"
+    orcid: "https://orcid.org/0009-0008-4122-3498"
+    website: "https://kaijuconverter.com"
+repository-code: "https://github.com/PabloCirre/kaijuconverter-mcp"
+url: "https://kaijuconverter.com"
+license: "MIT"
+version: "1.2.0"
+date-released: "2026-11-01"
+keywords:
+  - "model-context-protocol"
+  - "mcp-server"
+  - "claude-desktop"
+  - "cursor"
+  - "file-converter"
+  - "document-conversion"
+  - "pdf-tools"
+  - "kaijuconverter"
